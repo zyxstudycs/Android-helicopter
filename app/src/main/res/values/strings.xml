@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyFinal</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_background_choice">BackgroundChoice</string>
+    <string name="title_activity_choose_difficulty">ChooseDifficulty</string>
+    <string name="title_activity_music_choice">Music_choice</string>
+</resources>
